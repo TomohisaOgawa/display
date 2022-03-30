@@ -1,6 +1,3 @@
 
 data/190724_test.dat
 
-走らせて、load 押すと、最新 file (走っている) にリンクを貼ってdisplay する。
-
-xterm を開いて、走らせておく。
